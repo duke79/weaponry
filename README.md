@@ -39,7 +39,7 @@ Quick calibration assistance.
 * [Java](https://www.tutorialspoint.com/java/)
   * [Android](https://www.tutorialspoint.com/android/index.htm)
 * [Bash](https://www.tutorialspoint.com/unix/shell_scripting.htm)
-  * [Batch](https://www.tutorialspoint.com/batch_script/)
+  * [Batch](batch.md)
 * [Dart](https://www.tutorialspoint.com/dart_programming/index.htm)
   * [Flutter](https://flutter.io/docs/reference/tutorials)
 * [Git](https://www.tutorialspoint.com/git/index.htm)
