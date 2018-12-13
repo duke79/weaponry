@@ -2,6 +2,7 @@
 Quick calibration assistance.
 
 
+
 * [C++](cpp.md)
   * Design
     * [Modern C++ Design](http://www.drdobbs.com/stl-generic-programming-policy-driven-d/184401482)
@@ -47,4 +48,9 @@ Quick calibration assistance.
   * [Unittest](https://www.tutorialspoint.com/unittest_framework/unittest_framework.htm)
   * [Py.test](https://www.tutorialspoint.com/unittest_framework/unittest_framework_py_test_module.htm)
 * [Markdown](https://www.tutorialspoint.com/grav/grav_markdown_syntax.htm)
+* [Virtual Box](https://www.virtualbox.org/wiki/Documentation)
+  * [Docker](https://blog.sixeyed.com/how-to-dockerize-windows-applications/)
+  ,[1](https://www.radcortez.com/distribute-your-applications-with-docker-images/)
+  ,[2](https://www.infoq.com/articles/docker-executable-images)
+  ,[3](https://stackoverflow.com/questions/29291826/running-an-executable-in-a-dockerfile)
 * [Rust](https://doc.rust-lang.org/rust-by-example/)
