@@ -35,3 +35,8 @@ for line in process.stdout:
     print(line)
 errcode = process.returncode
 ```
+
+#### [decorators](https://github.com/lord63/awesome-python-decorator)
+[@property](https://www.programiz.com/python-programming/property)
+
+[to_explore](https://www.codingame.com/playgrounds/500/advanced-python-features)
