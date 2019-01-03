@@ -39,5 +39,7 @@ errcode = process.returncode
 #### [decorators](https://github.com/lord63/awesome-python-decorator)
 [@property](https://www.programiz.com/python-programming/property)
 
+[type checking?](https://stackoverflow.com/questions/35230635/type-hinting-in-python-2)
+
 [to_explore](https://www.codingame.com/playgrounds/500/advanced-python-features)  
 [check glossary](https://docs.python.org/2/glossary.html#term-duck-typing)
