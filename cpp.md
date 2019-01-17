@@ -1,6 +1,20 @@
 # [C++](https://www.tutorialspoint.com/cplusplus/)
 [cheatsheet](https://github.com/AnthonyCalandra/modern-cpp-features)
 
+## main
+```cpp
+#include "iostream"
+using namespace std;
+
+int main(int argc, char** argv)
+{
+    for(int i=0;i<argc;++i)
+      cout << argv[i];
+    
+    return 0;
+}
+```
+
 ## [Declarations](https://www.codeproject.com/Articles/7042/How-to-interpret-complex-C-C-declarations)
 [Data Types](https://www.tutorialspoint.com/cplusplus/cpp_data_types.htm)
 
