@@ -30,3 +30,11 @@ Search
 ```
 grep "sample input 0" ./test/* -ir
 ```
+
+Network
+```
+netstat
+ifconfig
+curl
+wget
+```
