@@ -8,6 +8,6 @@ i
 
 Linux commands
 ```
-ps
+ps aux | grep python
 htop
 ```
