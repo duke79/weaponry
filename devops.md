@@ -18,6 +18,7 @@ Process
 ```
 ps aux | grep python
 htop -d 1
+kill -9 ...
 ```
 
 Disk
@@ -26,9 +27,12 @@ df -h
 du -h --max-depth=1 | sort -hr
 ```
 
-Search
+Text
 ```
 grep "sample input 0" ./test/* -ir
+wc
+head
+tail
 ```
 
 Network
@@ -37,4 +41,5 @@ netstat
 ifconfig
 curl
 wget
+lsof -i:8080
 ```
