@@ -45,3 +45,13 @@ curl
 wget
 lsof -i:8080
 ```
+
+[Scheduler](https://crontab.guru/)
+```
+crontab * * * * * command(s)
+```
+
+## nginx
+```
+sudo service nginx restart
+```
