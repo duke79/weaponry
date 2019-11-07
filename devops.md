@@ -17,5 +17,5 @@ Fork
 Process
 ```
 ps aux | grep python
-htop -d l
+htop -d 1
 ```
