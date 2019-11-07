@@ -1,4 +1,6 @@
-[vi](https://www.guru99.com/the-vi-editor.html)
+## Linux
+
+### [vi](https://www.guru99.com/the-vi-editor.html)
 ```
 i
 :wq
@@ -6,7 +8,13 @@ i
 :q!
 ```
 
-Linux commands
+### Linux commands
+
+Fork
+* Fork for almost all commands
+* No fork for some - cd, source etc.
+
+Process
 ```
 ps aux | grep python
 htop
