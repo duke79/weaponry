@@ -34,6 +34,7 @@ grep "sample input 0" ./test/* -ir
 wc
 head
 tail
+command >out 2>&1
 ```
 
 Network
