@@ -25,3 +25,8 @@ Disk
 df -h
 du -h --max-depth=1 | sort -hr
 ```
+
+Search
+```
+grep "sample input 0" ./test/* -ir
+```
