@@ -8,11 +8,16 @@ i
 :q!
 ```
 
-### Linux commands
+### Bash
 
 Fork
 * Fork for almost all commands
 * No fork for some - cd, source etc.
+
+> Bashrc
+```
+.bashrc is a shell script that Bash runs whenever it is started interactively
+```
 
 Process
 ```
