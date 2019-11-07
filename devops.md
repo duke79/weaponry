@@ -19,3 +19,9 @@ Process
 ps aux | grep python
 htop -d 1
 ```
+
+Disk
+```
+df -h
+du -h --max-depth=1 | sort -hr
+```
