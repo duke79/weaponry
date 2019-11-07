@@ -19,6 +19,7 @@ Process
 ps aux | grep python
 htop -d 1
 kill -9 ...
+pm2 status
 ```
 
 Disk
